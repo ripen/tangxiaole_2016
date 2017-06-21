@@ -1,0 +1,9 @@
+.DS_Store
+Thumbs.db
+/index.html
+html
+Application/Runtime
+Application/Runtime/*
+/Application/Common/Conf/config.php
+/Application/Common/Conf/database.php
+/Uploads
